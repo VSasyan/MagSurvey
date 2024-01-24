@@ -1,4 +1,4 @@
-# Android ENSG : CartoMagneto
+# Android ENSG : MagSurvey
 
 ## Introduction
 
