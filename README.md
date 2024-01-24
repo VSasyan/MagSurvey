@@ -25,7 +25,7 @@ Vous devez créer une application de relevé géographique qui s'articule en 4 g
 - Créer une base de données non géographique qui gère les points d'intérêt `(3 points)`
 - Enrichir le formulaire afin qu'il soit auto rempli :
   - la position (deux champs avec la latitude et la longitude) `(2 points)`
-  - le champs magnétique (un champ par dimension) `(2 points)`
+  - le champ magnétique (un champ par dimension) `(2 points)`
   - l'adresse géocodée `(1 point)`
   - optimiser l'utilisation des ressources du téléphone de l'utilisateur `(4 points)`
 - Instrumenter la base de données pour la basculer en mode Spatial avec [SpatiaRoom](https://github.com/anboralabs/spatia-room) :
@@ -189,7 +189,7 @@ Cela est à ajouter dans le formulaire (FormActivity) afin de pré-remplir le fo
    2. lors d'un changement de valeur du champ magnétique.
 4. Une fois la position connue, vous pouvez la convertir en adresse postale.
 
-Pensez à économiser la batterie de l'utilisateur, c'est à dire à commencer et arrêter le suivi de position et de champs magnétique aux bons moments.
+Pensez à économiser la batterie de l'utilisateur, c'est à dire à commencer et arrêter le suivi de position et de champ magnétique aux bons moments.
 
 ### Partie IV : Base de donnée spatiale
 
