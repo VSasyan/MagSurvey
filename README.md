@@ -129,6 +129,9 @@ Il faut créer 2 classes :
 - Une pour l'entité (le PoJo qui représente la donnée) ;
 - Une pour le DAO (l'abstraction qui spécifie les opération CRUD à effectuer sur la base de donnée).
 
+> DAO Pour Data Access Object
+> CRUD Pour Create Read Update Delete
+
 > :warning: **Attention :** pour faciliter la création des entités, il faut ajouter l'option `autogenerate=true` à l'annotation `@PrimaryKey`
 
 Comme ceci :
