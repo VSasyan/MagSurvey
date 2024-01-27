@@ -193,7 +193,7 @@ Cela est à ajouter dans le formulaire (FormActivity) afin de pré-remplir le fo
    2. lors d'un changement de valeur du champ magnétique.
 4. Une fois la position connue, vous pouvez la convertir en adresse postale.
 
-Pensez à économiser la batterie de l'utilisateur, c'est à dire à commencer et arrêter le suivi de position et de champ magnétique aux bons moments.
+Pensez à économiser la batterie de l'utilisateur, c'est à dire à commencer et arrêter le suivi de position et de champ magnétique aux bons moments (c.f. cycle de vie de l'application).
 
 ### Partie IV : Base de donnée spatiale
 
