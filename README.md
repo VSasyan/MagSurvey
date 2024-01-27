@@ -187,7 +187,7 @@ A l'aide du [tutoriel Carto](https://github.com/VSasyan/AndroidENSG/blob/master/
 Cela est à ajouter dans le formulaire (FormActivity) afin de pré-remplir le formulaire.
 
 1. Il faudra ajouter les bonnes permissions dans le manifest ;
-2. Il faudra demander les permissions d'accès à la position dans la classe Java (pensez à downgrade la version de `com.google.android.material:material` à `1.4.0` dans le fichier `build.gradle (module)`) ;
+2. Il faudra demander les permissions d'accès à la position dans la classe Java (pensez au downgrade de la version de `com.google.android.material:material` à `1.4.0` dans le fichier `build.gradle (module)`) ;
 3. Ajouter le code qui permet d'être notifié pour mettre à jour le formulaire :
    1. lors d'un changement de coordonnées GPS ;
    2. lors d'un changement de valeur du champ magnétique.
