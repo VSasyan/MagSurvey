@@ -147,7 +147,7 @@ public class PointOfInterest {
 }
 ```
 
-> :warning: Dans le DAO, vous aurez besoin d'une fonction pour ajouter **un** point d'intérêt et d'une pour les lister **tous**.
+> :warning: Dans le DAO, vous aurez besoin d'une fonction pour ajouter **un seul** point d'intérêt et d'une autre pour les lister **tous** respectivement appeller **create** et **list_all** respectivement.
 
 4. Ensuite, il faudra créer une nouvelle class `AppDatabase.java` :
 
