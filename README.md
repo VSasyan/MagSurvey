@@ -227,7 +227,7 @@ dependencies {
 > :warning: **Attention !** il faut bien penser à synchroniser le fichier `gradle` avec le bouton contextuel :
 > ![sync graddle file](resources/ide_graddle_sync.png)
 
-2. Ensuite, il faut remplacer le `databaseBuilder` par celui de `spatia-room` chaque fois qu'il est utilisé par celui-ci :
+2. Ensuite, il faut remplacer l'objet `databaseBuilder` par celui de `spatia-room` chaque fois qu'il est utilisé par celui-ci :
 
 ```java
 AppDatabase db = SpatiaRoom.INSTANCE.databaseBuilder(getApplicationContext(), AppDatabase.class, "magSurvey.sqlite").allowMainThreadQueries().build();
