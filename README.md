@@ -27,7 +27,7 @@ Vous devez créer une application de relevé géographique qui s'articule en 4 g
   - la position (deux champs avec la latitude et la longitude) `(2 points)`
   - le champ magnétique (un champ par dimension) `(2 points)`
   - l'adresse géocodée `(1 point)`
-  - optimiser l'utilisation des ressources du téléphone de l'utilisateur `(4 points)`
+  - optimiser l'utilisation des ressources du téléphone de l'utilisateur (stopper les capteurs lorsque l'application n'est pas en fonction) `(4 points)`
 - Instrumenter la base de données pour la basculer en mode Spatial avec [SpatiaRoom](https://github.com/anboralabs/spatia-room) :
   - enregistrer et afficher des points d'intérêt `(3 points)`
 - Bonus `(2 points)` enrichir l'application avec vos idées, soyez créatif :wink:
