@@ -285,7 +285,7 @@ public class GeoConverters {
 }
 ```
 
-1. Enfin, maintenant que notre application est capable de stocker nos coordonnées géographiques, il vous faut les lire et les exploiter dans l'activity `MapsActivity`
+Enfin, maintenant que notre application est capable de stocker nos coordonnées géographiques, il vous faut les lire et les exploiter dans l'activity `MapsActivity`
 
 Vous pouvez vous aider de la classe `GeoConverters` que je vous ai fournis avec l'utilisation des méthodes `point2LatLng`.
 
