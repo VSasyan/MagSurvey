@@ -323,7 +323,9 @@ Chaque amélioration se verra rétribuer d'1 ou 2 points, alors bon courage. :sm
 
 ## Rendu
 
-Pour rendre votre travail, utilisez l'explorateur de fichiers Windows pour zipper (ZIP ou 7z) votre dossier **après avoir fermé Android Studio** (clic droit => 7z => Ajouter à "MagSurvey.7z")) :
+Pour rendre votre travail:
+- Fermez **Android Studio**
+- utilisez l'explorateur de fichiers Windows pour compresser (**ZIP** ou **7z**) votre dossier (clic droit => **7z** => **Ajouter à "MagSurvey.7z"**)) :
 
 ![Création archive 7z](resources/screen-7zip-1.png)
 
@@ -337,7 +339,7 @@ Enfin, déposez le fichier sur `\\FormationTemp\IGN2\Android\Rendus`.
 
 ## Remerciements
 
-Merci à vous tous d'avoir participé à ce cours, et j'espère que nous vous aurons appris quelques petites choses sur Android et les application mobiles. :-)
-Bonne continuation et bonne réussite dans vos projets.
+Merci à vous tous d'avoir participé à ce cours, et j'espère que nous vous aurons appris quelques petites choses sur **Android** et les **application mobiles**. :-)
+Bonne continuation et bonne **réussite** dans vos projets.
 
 Yann et Valentin
